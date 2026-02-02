@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital OPD Management System
 
 ![image](https://github.com/user-attachments/assets/3d7973ec-6c88-4bb0-9f9d-bdd6ea21bab4)
@@ -84,4 +85,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 
 
+=======
+>>>>>>> d1e293f6679ec9e9f5f6023f475ca51b19d720b5
 
